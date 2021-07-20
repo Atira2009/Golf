@@ -4,8 +4,8 @@ ball_x = 0;
 ball_y = 0;
 hole_x= 1000;
 hole_y= 450;
-bih = 20;
-biw = 20;
+bih = 10;
+biw = 10;
 var bo
 function load_img(){
 	fabric.Image.fromURL("golf-h.png", function(Img){
